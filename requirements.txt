@@ -1,0 +1,14 @@
+
+pyspark==4.0.1
+pandas
+numpy
+pyarrow
+matplotlib
+seaborn
+scikit-learn
+jupyter
+ipykernel
+duckdb
+polars
+tqdm
+tensorflow
